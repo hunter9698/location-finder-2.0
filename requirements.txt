@@ -1,0 +1,6 @@
+flask
+colorama
+pyngrok
+flask-cors
+user-agents
+requests
